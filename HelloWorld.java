@@ -2,6 +2,7 @@ public class HelloWorld {
     private int i;
     private String s;
 
+    // hotfix for bug #1234 made by Alice
     public HelloWorld(String s) {
         this.s = s;
     }
